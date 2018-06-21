@@ -1,1 +1,1 @@
-UkladyCyfrowe2-GraLabirynt
+UkladyCyfrowe2-Labirynt
